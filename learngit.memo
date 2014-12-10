@@ -5,4 +5,5 @@ git status
 git diff
 git add <<-- AGAIN
 git commit -m "some memo"
+git push
 
