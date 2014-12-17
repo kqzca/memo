@@ -1,2 +1,6 @@
 memo
 ====
+QCustomPlot
+QSerialPort
+QSerialPortInfo
+
